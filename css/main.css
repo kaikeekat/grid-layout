@@ -105,3 +105,19 @@ a {
   }
 
 }
+@media only screen and (min-width: 90em) {
+
+  html {
+    font-size: 130%;
+    line-height: 1.5;
+  }
+
+  body {
+    padding: 0 5em;
+  }
+
+  .img-flex {
+    width: 47%;
+    margin-right: 0;
+  }
+}
